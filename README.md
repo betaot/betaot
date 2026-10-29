@@ -8,24 +8,24 @@ Estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvim
 
 🌐 **Desenvolvimento web**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Dev Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" alt="Web Dev Icons" />
 </p>
 
 🐍 **Programação**
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Programming Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Programming Icons" />
 </p>
 
 🛠️ **Ferramentas**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sql" alt="Tools Icons" />
 </p>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* **[Cafeteria Study Cozy](https://github.com/SEU-USUARIO/SEU-REPO)** - Uma página web responsiva com temática aconchegante voltada para estudos, desenvolvida com HTML e CSS.
+- **[Cafeteria Study Cozy](https://github.com/betaot/SEU-REPO](https://github.com/betaot/Cafeteria-Study-Cozy)** - Uma página web responsiva com temática aconchegante voltada para estudos, desenvolvida com HTML e CSS.
 
 ---
 
@@ -33,22 +33,22 @@ Estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvim
 
 Quando não estou programando ou estudando na faculdade, você provavelmente vai me encontrar:
 
-* 🎮 **Jogando:** Curtindo bons jogos (de RPGs a modpacks complexos de Minecraft).
-* ⛩️ **Assistindo Animes:** Fã de boas histórias e universos fantásticos (como *Re:Zero* e obras marcantes como *Berserk*).
-* ⚽ **Praticando Esportes:** Movimentando o corpo, jogando futsal e treinando pesado na academia.
-* 🔪 **Assistindo Filmes de Terror:** Sempre em busca de um bom suspense ou terror para maratonar.
+- 🎮 **Jogando:** Curtindo bons jogos (de RPGs a jogos de histórias simples).
+- ⛩️ **Assistindo Animes:** Fã de boas histórias e universos fantásticos (como *Re:Zero* e obras marcantes como *Berserk*).
+- ⚽ **Praticando Esportes:** Movimentando o corpo e treinando pesado na academia.
+- 🔪 **Assistindo Filmes de Terror:** Sempre em busca de um bom suspense ou terror para maratonar.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betaot&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=betaot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betaot&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-* [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)
-* E-mail: `seu-email@exemplo.com`
+- **E-mail:** [cassundeian@gmail.com](mailto:cassundeian@gmail.com)
