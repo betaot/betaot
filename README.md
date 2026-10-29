@@ -2,6 +2,9 @@
 
 Estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvimento de software e criação de soluções eficientes. Sempre buscando aprender novas ferramentas e evoluir minhas habilidades práticas em programação.
 
+<a href="mailto:cassundeian@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
 ---
 
 ### 🚀 Tecnologias e ferramentas
@@ -62,6 +65,3 @@ Quando não estou programando ou estudando na faculdade, você provavelmente vai
 
 ---
 
-### 📫 Vamos nos conectar?
-
-- **E-mail:** [cassundeian@gmail.com](mailto:cassundeian@gmail.com)
