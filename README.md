@@ -41,14 +41,10 @@ Quando não estou programando ou estudando na faculdade, você provavelmente vai
 ---
 
 ### 📊 Estatísticas do GitHub
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=betaot&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betaot&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
+</div>
 
 ---
 
