@@ -42,9 +42,22 @@ Quando não estou programando ou estudando na faculdade, você provavelmente vai
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=betaot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betaot&layout=compact&theme=tokyonight" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=betaot&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=betaot&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
 
 ---
