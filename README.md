@@ -8,17 +8,17 @@ Estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvim
 
 🌐 **Desenvolvimento web**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" alt="Web Dev Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Dev Icons" />
 </p>
 
 🐍 **Programação**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Programming Icons" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Programming Icons" />
 </p>
 
 🛠️ **Ferramentas**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sql" alt="Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools Icons" />
 </p>
 
 ---
