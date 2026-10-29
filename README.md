@@ -5,6 +5,8 @@ Estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvim
 <a href="mailto:cassundeian@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
+
+
 ---
 
 ### 🚀 Tecnologias e ferramentas
