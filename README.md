@@ -25,7 +25,7 @@ Estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvim
 
 ### 🚀 Projetos em Destaque
 
-- **[Cafeteria Study Cozy]([https://github.com/betaot/SEU-REPO](https://github.com/betaot/Cafeteria-Study-Cozy)** - Uma página web responsiva com temática aconchegante voltada para estudos, desenvolvida com HTML e CSS.
+- **[Cafeteria Study Cozy](https://github.com/betaot/Cafeteria-Study-Cozy)** - Uma página web responsiva com temática aconchegante voltada para estudos, desenvolvida com HTML e CSS.
 
 ---
 
